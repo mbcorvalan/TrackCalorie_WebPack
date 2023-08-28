@@ -16,7 +16,7 @@ Follow these steps to get the app up and running:
    git clone  mbcorvalan/TrackCalorie_WebPack
 2. **Install Dependencies**:
    npm install
-3. **Install Dependencies**:
+3. **Launch the App:**:
     npm run dev
 Voilà! 🎉 You're all set to start tracking and managing your calories!
 
